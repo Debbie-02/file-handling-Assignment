@@ -1,5 +1,5 @@
 # file-handling-Assignment
-python assignment wk4
+File Handling and Exception Handling
 
 This is a Python program that demonstrates file handling and exception handling.The program:
 Asks the user for a filename.
